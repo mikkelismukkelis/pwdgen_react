@@ -1,0 +1,61 @@
+#wrapper {
+  width: 50%;
+  margin: auto;
+}
+
+@media only screen and (max-width: 1300px) {
+  #wrapper {
+    width: 60%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #wrapper {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  #wrapper {
+    width: 100%;
+  }
+}
+
+.snackbar {
+  top: 0 !important;
+  margin-bottom: 50px !important;
+}
+
+.firstBox {
+  margin-top: 55px;
+  background-color: whitesmoke;
+}
+
+.box {
+  margin-top: 40px;
+  background-color: whitesmoke;
+}
+
+.inputAndOthers {
+  margin-top: 20px;
+}
+
+.textfield {
+  background-color: white;
+}
+
+.buttons {
+  margin-top: 24px;
+}
+
+#generateButton {
+  background-color: white;
+}
+
+.slider {
+  margin-top: 10px !important;
+}
+
+.includes {
+  margin-top: 0px !important;
+}
